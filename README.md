@@ -107,16 +107,6 @@ https://698f64cbdcc9a4df204a84b8.mockapi.io/books
 
 ---
 
-## 📱 Screenshots
-
-> _Add screenshots of your app here_
-
-| Home Screen | Add Book | Edit Book |
-|---|---|---|
-| ![Home](./assets/home.png) | ![Add](./assets/add.png) | ![Edit](./assets/edit.png) |
-
----
-
 ## 🔧 Key Components
 
 ### `BookCard`
